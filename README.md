@@ -39,3 +39,6 @@ You can see the demo video here: `demo_video.mp4` (or link to LinkedIn post if u
 1. Open `gpt2_text_generation.ipynb` in Google Colab
 2. Run all cells sequentially
 3. Use Gradio interface to enter prompts and generate text
+4.  You can open this notebook in Google Colab for execution:
+[Open in Colab](https://colab.research.google.com/github/ShaikArfaAnjum/PRODIGY_GA_01/blob/main/Task_01_GPT2_Text_Generation.ipynb)
+
